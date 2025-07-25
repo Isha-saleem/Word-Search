@@ -1,4 +1,4 @@
-#  Word Search Game with Categories
+#  Word Search Game 
 
 **Word Search** is a classic puzzle game where players find hidden words in a grid of letters. This version makes it more fun and challenging by offering **multiple categories**, such as:
 - Birds
